@@ -1,0 +1,32 @@
+{
+  "name": "jsdeepdive-ecmascript6-with-typescript-and-gruntjs",
+  "version": "0.0.1",
+  "description": "EcmaScript6 with TypeScript and Grunt.js",
+  "keywords": [
+    "Grunt.js",
+    "TypeScript"
+  ],
+  "author": {
+    "name": "Victor Genin",
+    "email": "victor.genin@live.com"
+  },
+  "homepage": "http://jsdeepdive.blogspot.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aie0/jsdeepdive-ecmascript6-with-typescript-and-gruntjs.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.3.0"
+  },
+  "dependencies": {
+    "grunt-cli": "~0.1.13"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-ts": "^1.12.1",
+    "typescript": "0.9.7"
+  },
+  "bundleDependencies": [],
+  "private": false
+}
